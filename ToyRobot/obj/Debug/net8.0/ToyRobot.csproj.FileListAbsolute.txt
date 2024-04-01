@@ -1,0 +1,57 @@
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\obj\Debug\net8.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfoInputs.cache
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfo.cs
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\obj\Debug\net8.0\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\bin\Debug\net8.0\ToyRobot.exe
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\bin\Debug\net8.0\ToyRobot.deps.json
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\bin\Debug\net8.0\ToyRobot.runtimeconfig.json
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\bin\Debug\net8.0\ToyRobot.dll
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\bin\Debug\net8.0\ToyRobot.pdb
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\obj\Debug\net8.0\ToyRobot.dll
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\obj\Debug\net8.0\refint\ToyRobot.dll
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\obj\Debug\net8.0\ToyRobot.pdb
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\obj\Debug\net8.0\ToyRobot.genruntimeconfig.cache
+C:\Users\D0861164\OneDrive - Saint-Gobain\Documents\Projects\ToyRobot\obj\Debug\net8.0\ref\ToyRobot.dll
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.exe
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.deps.json
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.runtimeconfig.json
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.dll
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.pdb
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfoInputs.cache
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfo.cs
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.dll
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\obj\Debug\net8.0\refint\ToyRobot.dll
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.pdb
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.genruntimeconfig.cache
+C:\Users\D0861164\Downloads\ToyRobot\ToyRobot\obj\Debug\net8.0\ref\ToyRobot.dll
+C:\Projects\Learings\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.exe
+C:\Projects\Learings\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.deps.json
+C:\Projects\Learings\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.runtimeconfig.json
+C:\Projects\Learings\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.dll
+C:\Projects\Learings\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.pdb
+C:\Projects\Learings\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learings\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfoInputs.cache
+C:\Projects\Learings\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfo.cs
+C:\Projects\Learings\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Projects\Learings\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.dll
+C:\Projects\Learings\ToyRobot\ToyRobot\obj\Debug\net8.0\refint\ToyRobot.dll
+C:\Projects\Learings\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.pdb
+C:\Projects\Learings\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.genruntimeconfig.cache
+C:\Projects\Learings\ToyRobot\ToyRobot\obj\Debug\net8.0\ref\ToyRobot.dll
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\bin\Debug\net8.0\ToyRobot.exe
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\bin\Debug\net8.0\ToyRobot.deps.json
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\bin\Debug\net8.0\ToyRobot.runtimeconfig.json
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\bin\Debug\net8.0\ToyRobot.dll
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\bin\Debug\net8.0\ToyRobot.pdb
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfoInputs.cache
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfo.cs
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\ToyRobot.sourcelink.json
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\ToyRobot.dll
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\refint\ToyRobot.dll
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\ToyRobot.pdb
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\ToyRobot.genruntimeconfig.cache
+C:\Users\D0861164\source\repos\ToyRobotSimulationRevised\ToyRobot\obj\Debug\net8.0\ref\ToyRobot.dll
