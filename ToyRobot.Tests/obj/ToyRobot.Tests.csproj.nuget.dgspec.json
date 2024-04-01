@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot.Tests\\ToyRobot.Tests.csproj": {}
+    "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot.Tests\\ToyRobot.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot.Tests\\ToyRobot.Tests.csproj": {
+    "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot.Tests\\ToyRobot.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot.Tests\\ToyRobot.Tests.csproj",
+        "projectUniqueName": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot.Tests\\ToyRobot.Tests.csproj",
         "projectName": "ToyRobot.Tests",
-        "projectPath": "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot.Tests\\ToyRobot.Tests.csproj",
+        "projectPath": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot.Tests\\ToyRobot.Tests.csproj",
         "packagesPath": "C:\\Users\\D0861164\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot.Tests\\obj\\",
+        "outputPath": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj": {
-                "projectPath": "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj"
+              "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj": {
+                "projectPath": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj": {
+    "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj",
+        "projectUniqueName": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj",
         "projectName": "ToyRobot",
-        "projectPath": "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj",
+        "projectPath": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot\\ToyRobot.csproj",
         "packagesPath": "C:\\Users\\D0861164\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\ToyRobot\\obj\\",
+        "outputPath": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

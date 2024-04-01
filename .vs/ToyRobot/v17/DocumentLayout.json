@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\D0861164\\source\\repos\\ToyRobotSimulationRevised\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Projects\\ToyRobotSimulationRevised\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{078D92DD-4AC3-42B7-A000-B8FBB4F1C330}|ToyRobot\\ToyRobot.csproj|c:\\projects\\toyrobotsimulationrevised\\toyrobot\\bin\\debug\\net8.0\\commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{078D92DD-4AC3-42B7-A000-B8FBB4F1C330}|ToyRobot\\ToyRobot.csproj|solutionrelative:toyrobot\\bin\\debug\\net8.0\\commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1845580-DB76-418B-9982-75EB816898E9}|ToyRobot.Tests\\ToyRobot.Tests.csproj|c:\\projects\\toyrobotsimulationrevised\\toyrobot.tests\\robottests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1845580-DB76-418B-9982-75EB816898E9}|ToyRobot.Tests\\ToyRobot.Tests.csproj|solutionrelative:toyrobot.tests\\robottests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "commands.txt",
+              "DocumentMoniker": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot\\bin\\Debug\\net8.0\\commands.txt",
+              "RelativeDocumentMoniker": "ToyRobot\\bin\\Debug\\net8.0\\commands.txt",
+              "ToolTip": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot\\bin\\Debug\\net8.0\\commands.txt",
+              "RelativeToolTip": "ToyRobot\\bin\\Debug\\net8.0\\commands.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-01T12:03:27.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotTests.cs",
+              "DocumentMoniker": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot.Tests\\RobotTests.cs",
+              "RelativeDocumentMoniker": "ToyRobot.Tests\\RobotTests.cs",
+              "ToolTip": "C:\\Projects\\ToyRobotSimulationRevised\\ToyRobot.Tests\\RobotTests.cs",
+              "RelativeToolTip": "ToyRobot.Tests\\RobotTests.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAA/wIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:26:40.339Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
